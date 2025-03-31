@@ -24,7 +24,7 @@ Currently, I'm working on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KavishiGodage&theme=dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavishi25&theme=dark&hide_border=true" width="50%" />
 </p>
 
 ---
