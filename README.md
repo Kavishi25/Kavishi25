@@ -20,7 +20,7 @@ Currently, I'm working on:
 
 ## 📊 My GitHub Statistics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavishiGodage&show_icons=true&theme=dark&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavishi25&show_icons=true&theme=dark&count_private=true" width="50%" />
 </p>
 
 <p align="center">
